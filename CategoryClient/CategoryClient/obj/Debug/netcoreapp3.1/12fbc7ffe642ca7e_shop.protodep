@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Shop.cs \
+obj\Debug\netcoreapp3.1/ShopGrpc.cs: Protos/shop.proto
